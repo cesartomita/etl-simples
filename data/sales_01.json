@@ -1,0 +1,12 @@
+[
+  {"transaction_id": "T001", "date": "2024-08-01", "product": "Laptop", "quantity": 2, "unit_price": 1200.00},
+  {"transaction_id": "T002", "date": "2024-08-01", "product": "Mouse", "quantity": 5, "unit_price": 25.00},
+  {"transaction_id": "T003", "date": "2024-08-02", "product": "Keyboard", "quantity": 3, "unit_price": 45.00},
+  {"transaction_id": "T004", "date": "2024-08-02", "product": "Monitor", "quantity": 1, "unit_price": 300.00},
+  {"transaction_id": "T005", "date": "2024-08-03", "product": "USB Drive", "quantity": 10, "unit_price": 15.00},
+  {"transaction_id": "T006", "date": "2024-08-03", "product": "Printer", "quantity": 2, "unit_price": 150.00},
+  {"transaction_id": "T007", "date": "2024-08-04", "product": "Webcam", "quantity": 4, "unit_price": 70.00},
+  {"transaction_id": "T008", "date": "2024-08-04", "product": "Router", "quantity": 1, "unit_price": 80.00},
+  {"transaction_id": "T009", "date": "2024-08-05", "product": "External Hard Drive", "quantity": 3, "unit_price": 100.00},
+  {"transaction_id": "T010", "date": "2024-08-05", "product": "Headphones", "quantity": 6, "unit_price": 50.00}
+]

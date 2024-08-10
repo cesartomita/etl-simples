@@ -1,0 +1,12 @@
+[
+  {"transaction_id": "T011", "date": "2024-08-06", "product": "Mouse Pad", "quantity": 8, "unit_price": 10.00},
+  {"transaction_id": "T012", "date": "2024-08-06", "product": "Desk Lamp", "quantity": 2, "unit_price": 40.00},
+  {"transaction_id": "T013", "date": "2024-08-07", "product": "Monitor Stand", "quantity": 1, "unit_price": 25.00},
+  {"transaction_id": "T014", "date": "2024-08-07", "product": "Docking Station", "quantity": 2, "unit_price": 120.00},
+  {"transaction_id": "T015", "date": "2024-08-08", "product": "Laptop Bag", "quantity": 5, "unit_price": 60.00},
+  {"transaction_id": "T016", "date": "2024-08-08", "product": "Power Bank", "quantity": 7, "unit_price": 30.00},
+  {"transaction_id": "T017", "date": "2024-08-09", "product": "Microphone", "quantity": 3, "unit_price": 90.00},
+  {"transaction_id": "T018", "date": "2024-08-09", "product": "Keyboard Cover", "quantity": 6, "unit_price": 15.00},
+  {"transaction_id": "T019", "date": "2024-08-10", "product": "Tablet", "quantity": 2, "unit_price": 350.00},
+  {"transaction_id": "T020", "date": "2024-08-10", "product": "Smartphone", "quantity": 4, "unit_price": 500.00}
+]

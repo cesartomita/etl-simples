@@ -1,0 +1,12 @@
+[
+	{"transaction_id": "T021", "date": "2024-08-11", "product": "Bluetooth Speaker", "quantity": 5, "unit_price": 80.00},
+    {"transaction_id": "T022", "date": "2024-08-11", "product": "Smartwatch", "quantity": 3, "unit_price": 200.00},
+    {"transaction_id": "T023", "date": "2024-08-12", "product": "Portable Charger", "quantity": 7, "unit_price": 25.00},
+    {"transaction_id": "T024", "date": "2024-08-12", "product": "Camera Lens", "quantity": 2, "unit_price": 500.00},
+    {"transaction_id": "T025", "date": "2024-08-13", "product": "Gaming Console", "quantity": 1, "unit_price": 400.00},
+    {"transaction_id": "T026", "date": "2024-08-13", "product": "VR Headset", "quantity": 3, "unit_price": 300.00},
+    {"transaction_id": "T027", "date": "2024-08-14", "product": "Smart TV", "quantity": 1, "unit_price": 600.00},
+    {"transaction_id": "T028", "date": "2024-08-14", "product": "Soundbar", "quantity": 2, "unit_price": 120.00},
+    {"transaction_id": "T029", "date": "2024-08-15", "product": "Digital Camera", "quantity": 2, "unit_price": 350.00},
+    {"transaction_id": "T030", "date": "2024-08-15", "product": "Smart Home Device", "quantity": 4, "unit_price": 90.00}
+]
